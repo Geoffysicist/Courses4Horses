@@ -12,7 +12,7 @@ Showjumping and Eventing (mainly NSW Mid-North Coast)
 <iframe src="https://calendar.google.com/calendar/embed?src=49eq5fpi8a98stfac057n0fceg%40group.calendar.google.com&ctz=Australia%2FSydney" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-## Listed Showjumping and Eventing Clubs:
+### Listed Showjumping and Eventing Clubs
 
 * [Blue Metal Equestrian - BME](https://www.facebook.com/Blue.Metal.Equestrian/)
 * [Coffs Coast Jump Club - CCJC](https://www.facebook.com/coffscoastshowjumping)
